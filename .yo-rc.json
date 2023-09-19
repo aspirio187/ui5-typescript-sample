@@ -1,0 +1,17 @@
+{
+  "generator-ui5-ts-app": {
+    "namespace": "ui5.typescript.sample",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.116.0",
+    "author": "Soultan Hatsijev",
+    "initrepo": false,
+    "tstypes": "@sapui5/types",
+    "tstypesVersion": "1.116.0",
+    "appId": "ui5.typescript.sample",
+    "appURI": "ui5/typescript/sample",
+    "cdnDomain": "ui5.sap.com",
+    "defaultTheme": "sap_horizon",
+    "gte11150": true,
+    "setupCompleted": true
+  }
+}

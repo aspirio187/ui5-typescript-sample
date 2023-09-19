@@ -1,0 +1,14 @@
+{
+	"authenticationMethod": "route",
+	"welcomeFile": "/webapp/index.html",
+	"logout": {
+		"logoutEndpoint": "/do/logout"
+	},
+	"routes": [
+		{
+			"source": "^/dbg/(.*)$",
+			"target": "$1",
+			"localDir": "webapp"
+		}
+	]
+}
